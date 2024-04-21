@@ -1,0 +1,3 @@
+nc: 494
+train: /home/argus-vision/vision/VisionTrainingGround/LD/16_Regions/datasets/17R_top_salient/train/images
+val: /home/argus-vision/vision/VisionTrainingGround/LD/16_Regions/datasets/17R_top_salient/test/images
