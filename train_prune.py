@@ -1,3 +1,7 @@
+"""
+Custom evaluator class for evaluating models and pruning detections
+"""
+
 from ultralytics import YOLO
 import argparse
 import numpy as np

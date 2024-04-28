@@ -1,3 +1,7 @@
+"""
+Script to run evaluation on all custom trained models
+"""
+
 import subprocess
 import os
 

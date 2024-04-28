@@ -1,3 +1,7 @@
+"""
+Default YOLO training script
+"""
+
 from ultralytics import YOLO
 
 # Load pretrained yolo model

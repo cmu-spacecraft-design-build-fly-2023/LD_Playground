@@ -1,3 +1,7 @@
+"""
+Simple evaluation with TrainTester class
+"""
+
 from train_prune import TrainTester
 import os
 import argparse

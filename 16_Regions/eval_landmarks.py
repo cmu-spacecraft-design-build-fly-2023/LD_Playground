@@ -1,3 +1,7 @@
+"""
+Main evaluation script for calculating metrics and generating visualizations
+"""
+
 import os
 import numpy as np
 from ultralytics import YOLO

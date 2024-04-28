@@ -1,3 +1,7 @@
+"""
+Training script for training default YOLO model on 16 regions
+"""
+
 from ultralytics import YOLO
 import os
 

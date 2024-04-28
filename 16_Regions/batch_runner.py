@@ -1,3 +1,7 @@
+"""
+Script to run evaluation on all regions
+"""
+
 import subprocess
 import os
 

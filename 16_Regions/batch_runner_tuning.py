@@ -1,3 +1,7 @@
+"""
+Script to run evaluation on all tuned models
+"""
+
 import subprocess
 import os
 

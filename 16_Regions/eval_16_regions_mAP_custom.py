@@ -1,3 +1,7 @@
+"""
+Script to get mAP results on custom trained models
+"""
+
 from ultralytics import YOLO
 import os
 import argparse

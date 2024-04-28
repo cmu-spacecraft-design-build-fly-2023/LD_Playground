@@ -1,3 +1,7 @@
+"""
+Script to get MSE results on trained models using custom evaluator
+"""
+
 from train_prune import TrainTester
 import os
 import argparse

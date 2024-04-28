@@ -1,3 +1,7 @@
+"""
+Script for generating a subset of the full dataset for a region
+"""
+
 import os
 import shutil
 import random
